@@ -12,7 +12,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Migrations
                 name: "Description",
                 table: "CustomerAccountProcesses",
                 type: "nvarchar(max)",
-                nullable: false,
+                nullable: true,
                 defaultValue: "");
 
             migrationBuilder.AddColumn<int>(
