@@ -5,6 +5,6 @@ Easy Cash Asp.Net Core 6.0 Identity Projesi
 
 ## Proje Hakkında: 
 
-## Aşağıda, proje geliştirme aşamaları sıralı bir şekilde sunulmaktadır:
+## Proje Aşamaları:
 
 ## Proje Görselleri
